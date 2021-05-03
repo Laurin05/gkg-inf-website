@@ -48,7 +48,7 @@ Screenshot mit Beschreibung.
 
 Screenshot mit Beschreibung.
 
-usw...
+usw...,
 
 ## Zusammenfassung
 
