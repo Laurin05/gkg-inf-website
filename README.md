@@ -33,11 +33,11 @@ Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
 
 | Deadline | Name | Beschreibung |
 | --- | --- | --- |
-| 01.01.2021 | Vorname Name | Das wird gemacht |
-| 02.01.2021 | Vorname Name | Das wird gemacht |
-| 03.01.2021 | Vorname Name | Das wird gemacht |
-| 04.01.2021 | Vorname Name | Das wird gemacht |
-| 05.01.2021 | Vorname Name | Das wird gemacht |
+| 17.05.2021 | Julian Baer | Das wird gemacht |
+| 17.05.2021 | Laurin Egeler | Das wird gemacht |
+| 03.05.2021 | Vorname Name | Das wird gemacht |
+| 04.05.2021 | Vorname Name | Das wird gemacht |
+| 05.05.2021 | Vorname Name | Das wird gemacht |
 
 ## Umsetzung
 
