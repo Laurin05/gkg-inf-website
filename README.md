@@ -6,19 +6,18 @@ Auf dieser Webseite wollen wir den Handballsport Weltweit und in der SChweiz bes
 
 Detaillierte Beschreibung der geplanten Funktionalität.
 
-### Hauptseite
+### Hauptseite ("Allgemeines")
 
-Auf der Haubtseite gehen wir genauer auf die Grundsätze des Sports ein.
+Auf der Haubtseite gehen wir genauer auf **die Grundsätze des Sports** ein. Wir erklären dabei die wichtigsten Regeln, die grössen des Spielfeldes und zum Beispiel des Tores. 
 
-### Unterseite 1
+### Unterseite 1 ("Schweizer Handball")
 
-Skizze mit Beschreibung.
+Auf dieser Seite beleuchten wir den Schweizer Handabll genauer. Wir zeigen die momentane **Tabelle der obersten Schweizer Liga**, mit deren Logos, Namen, Punkte, Rang in dieser Saison und dem Topscorer des Teams. Auch sagen wir welches die Weltelite und wo der Schweizer Handball dabei steht.
 
-### Impressum
 
-Skizze mit Beschreibung.
+### Unterseite 2 ("Geschichte")
 
-usw...
+Auf der 2. Unterseite kommt eine **kurze Zusammenfassung der Geschichte** des Sports. Wir sagen auch wie sich der Sport verändert hat und zeigen auch ein paar Vergleiche von früher und heute.
 
 ## Zeitplan
 
