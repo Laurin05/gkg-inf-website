@@ -1,6 +1,6 @@
 # Handball 
 
-Auf dieser Webseite wollen wir den Handballsport Weltweit und in der SChweiz beschreiben. Dabei gehen wir auf der Haubtseite generell auf den Sport und seine Regeln ein. Auf der 1. Unterseite zeigen wir die Tabelle der obersten Schweizer Liga und einige Informationen dazu. Auf der 2. Unterseite reden wir über die Geschichte des Sports.
+Auf dieser Webseite wollen wir den Handballsport Weltweit und in der Schweiz beschreiben. Dabei gehen wir auf der Haubtseite generell auf den Sport und seine Regeln ein. Auf der 1. Unterseite zeigen wir die Tabelle der obersten Schweizer Liga und einige Informationen dazu. Auf der 2. Unterseite reden wir über die Geschichte des Sports.
 
 ## Projektplan
 
