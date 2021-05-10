@@ -30,11 +30,10 @@ Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
 
 | Deadline | Name | Beschreibung |
 | --- | --- | --- |
-| 17.05.2021 | Julian Baer | Text und Anfang HTML |
-| 17.05.2021 | Laurin Egeler | Das wird gemacht |
-| 03.05.2021 | Julian Baer | Das wird gemacht |
-| 04.05.2021 | Vorname Name | Das wird gemacht |
-| 05.05.2021 | Vorname Name | Das wird gemacht |
+| 17.05.2021 | Julian Baer | Text und HTML schreiben|
+| 17.05.2021 | Laurin Egeler | Text und HTML schreiben (Haubseite, 2.Unterseite) |
+| 24.05.2021 | Julian Baer | CSS beenden (1. Unterseite, Footer, Header) + überarbeiten |
+| 24.05.2021 | Laurin Egeler | CSS fertigstellen (Haubtseite, 2.Unterseite) |
 
 ## Umsetzung
 
