@@ -4,7 +4,7 @@ Auf dieser Webseite wollen wir den Handballsport Weltweit und in der SChweiz bes
 
 ## Projektplan
 
-Detaillierte Beschreibung der geplanten Funktionalität.
+Auf allen Seiten gibt es einen Header mit einem gleichbleibenden Banner und einer Menu leiste mit den 3 Seiten. Wenn man auf die Menu Butons klickt kommt man zur jeweiligen Seiten. Auf der 1. Unterseite gibt es eine Tabelle mit allen Teams. Wenn man auf den Namen der Teams drückt kommt man automatisch zu deren Internetseiten. Auf allen Seiten gibt es zusätzlich noch Bilder und Text. Ebenfalls auf allen Seiten hat es einen Footer mit dem Impressum und einem Link zur Person.
 
 ### Hauptseite ("Allgemeines")
 
