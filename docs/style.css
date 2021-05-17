@@ -13,8 +13,11 @@ body {
     
 
 }
-.bild_manschaft {
-    position: center;
+.bild_manschaft img{
+    background-position: center;
+    height: 30px;
+    width: 50px;
+    margin: 50px 10px 50px 10px;
 }
 .schweizer_handball {
 
