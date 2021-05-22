@@ -42,8 +42,17 @@ body {
     white-space: nowrap;
 }
 .page {
-    
+ 
+
 }
+
+
+
+
+
+
+
+
 .bild_manschaft img{
     background-position: center;
     height: 30px;
@@ -70,6 +79,8 @@ body {
     font-size: 16px;
     text-align: center;
 }
+
+
 .footer {
     display: flex table;
     background-color: lightgray;
