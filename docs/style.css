@@ -3,6 +3,7 @@ body {
     margin: 30px 50px 30px 50px;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
 }
 
 .menu {
@@ -53,22 +54,46 @@ body {
 .schweizer_handball {
 
 }
+.table {
+    display: table;
+    text-align: center;
+
+}
 .tabelle_hb {
+    display: table;
     background-position: center;
     background-color: whitesmoke;
     border-color: black;
     border-style: solid;
     margin: auto;
-    padding: 1rem;
-    font-size: 14px;
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
 }
 .footer {
-background-color: lightgray;
-color: gray;
-text-align: center;
-
+    display: flex table;
+    background-color: lightgray;
+    background-size: 100% auto;
+    background-position: center;
+    color: gray;
+    
+}
+.impressum .link {
+    color: gray;
+    text-decoration: gray;
+    font-weight: bold;
 }
 
+.impressum {
+    display: table;
+    text-align:center;
+    font-size: 15px;
+    margin: auto;
+    padding-left: auto;
+    padding-right: auto;
+    padding-top: 0px;
+    padding-bottom: 5px;
+}
 
 
 
