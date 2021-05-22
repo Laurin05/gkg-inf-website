@@ -41,8 +41,17 @@ body {
     white-space: nowrap;
 }
 .page {
-    
+ 
+
 }
+
+
+
+
+
+
+
+
 .bild_manschaft img{
     background-position: center;
     height: 30px;
@@ -62,6 +71,8 @@ body {
     padding: 1rem;
     font-size: 14px;
 }
+
+
 .footer {
 background-color: lightgray;
 color: gray;
