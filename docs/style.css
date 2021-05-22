@@ -91,7 +91,7 @@ body {
 }
 .impressum .link {
     color: gray;
-    text-decoration: gray;
+    text-decoration: none;
     font-weight: bold;
 }
 
