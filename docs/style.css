@@ -79,7 +79,18 @@ body {
     font-size: 16px;
     text-align: center;
 }
+.tabelle_hb .image {
+    height: 100px;
+    width: 100px;
+}
+.tabelle_hb .platzierung {
+    font-size: 25px;
+}
 
+.tabelle_hb .platzierung_1 {
+    font-size: 25px;
+    font-weight: bolder;
+}
 
 .footer {
     display: flex table;
