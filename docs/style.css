@@ -26,23 +26,19 @@ body {
     background-repeat: no-repeat;
     background-size: 100% auto;
 }
+
 .row-flex {
     display: flex;
     flex-wrap: nowrap;
     padding: 5px;
 }
-.row-flex .col-fix {
-    flex-basis: 200px;
-    flex-shrink: 0;
-    flex-grow: 0;
-    text-align: center;
-    white-space: nowrap;
-}
+
 .row-flex .col-adjust {
     flex-basis: 100px;
     flex-shrink: 0;
     flex-grow: 1;
     text-align: center;
+    white-space: nowrap;
 }
 .page {
     
@@ -53,6 +49,7 @@ body {
     width: 50px;
     margin: 50px 10px 50px 10px;
 }
+
 .schweizer_handball {
 
 }
