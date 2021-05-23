@@ -46,7 +46,13 @@ body {
 
 }
 
+.Antike{
 
+    display: table;
+    background-position: center;
+    margin: auto;
+
+}
 
 
 
