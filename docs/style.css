@@ -53,15 +53,23 @@ body {
 
 
 
-.bild_manschaft img{
+.schweizer_handball .bild_manschaft {
+    display: flex;
+    height: 30rem;
+    width: 50rem;
     background-position: center;
-    height: 30px;
-    width: 50px;
-    margin: 50px 10px 50px 10px;
+    padding: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .schweizer_handball {
-
+    
+}
+.schweizer_handball .p_1 {
+    font-size: 19px;
 }
 .table {
     display: table;
@@ -102,7 +110,6 @@ body {
 }
 .impressum .link {
     color: gray;
-    text-decoration: none;
     font-weight: bold;
 }
 
