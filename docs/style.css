@@ -12,15 +12,18 @@ body {
     font-family: serif;
     background-color: black;
 }
+
 .menu .link {
     text-align: center;
     text-decoration: none;
     color: white;
     border: none;
 }
+
 .menu .link:hover {
     color: orangered;
 }
+
 .banner {
     height: 10rem;
     width: 100%;
@@ -42,17 +45,13 @@ body {
     text-align: center;
     white-space: nowrap;
 }
-.page {
- 
-
-}
 
 .Antike{
-
     display: table;
     background-position: center;
     margin: auto;
 }
+
 .Antike .History{
     height: 350px;
     width: 500px;
@@ -70,16 +69,15 @@ body {
     height: 400px;
     width: 580px;
 }
+
 .links{
     margin: 10px;
-
 }
+
 .Unterschrift{
     color: slateblue;
     font-size: 10pt;
-
 }
-
 
 .schweizer_handball .bild_manschaft {
     display: flex;
@@ -93,17 +91,15 @@ body {
     margin-right: auto;
 }
 
-.schweizer_handball {
-    
-}
 .schweizer_handball .p_1 {
     font-size: 19px;
 }
+
 .table {
     display: table;
     text-align: center;
-
 }
+
 .tabelle_hb {
     display: table;
     background-position: center;
@@ -115,10 +111,12 @@ body {
     font-size: 16px;
     text-align: center;
 }
+
 .tabelle_hb .image {
     height: 100px;
     width: 100px;
 }
+
 .tabelle_hb .platzierung {
     font-size: 25px;
 }
@@ -134,8 +132,8 @@ body {
     background-size: 100% auto;
     background-position: center;
     color: black;
-    
 }
+
 .footer .image_footer {
     height: 200px;
     width: 250px;
@@ -146,6 +144,7 @@ body {
     padding-right: auto;
     padding-left: auto;
 }
+
 .impressum .link {
     color: black;
     font-weight: bold;
