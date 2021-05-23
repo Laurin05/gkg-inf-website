@@ -4,6 +4,7 @@ body {
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
+    background-color: lightgray;
 }
 
 .menu {
@@ -116,10 +117,10 @@ body {
 
 .footer {
     display: flex table;
-    background-color: lightgray;
+    background-color: darkgray;
     background-size: 100% auto;
     background-position: center;
-    color: gray;
+    color: black;
     
 }
 .footer .image_footer {
@@ -133,7 +134,7 @@ body {
     padding-left: auto;
 }
 .impressum .link {
-    color: gray;
+    color: black;
     font-weight: bold;
 }
 
