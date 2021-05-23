@@ -64,8 +64,16 @@ body {
     width: 20rem;
 }
 
+.rechts{
+    float: right;
+    margin-left: 60px;
+    height: 650px;
+    width: 942px;
+}
+.links{
+    height: 650px;
 
-
+}
 
 
 .schweizer_handball .bild_manschaft {
