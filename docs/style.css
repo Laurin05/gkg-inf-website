@@ -66,12 +66,12 @@ body {
 
 .rechts{
     float: right;
-    margin-left: 60px;
+    margin-left: 50px;
     height: 400px;
     width: 580px;
 }
 .links{
-    height: 400px;
+    margin: 10px;
 
 }
 .Unterschrift{
