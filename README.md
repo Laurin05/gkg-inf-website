@@ -43,11 +43,11 @@ Detaillierte Beschreibung der umgesetzten Webseite.
 
 Screenshot mit Beschreibung.
 
-### Unterseite 1
+### Unterseite 1(*"Schweizer Handball"*)
 
 Screenshot mit Beschreibung.
 
-### Impressum
+### Unterseite 2(*"Geschichte"*)
 
 Screenshot mit Beschreibung.
 
