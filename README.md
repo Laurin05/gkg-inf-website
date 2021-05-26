@@ -37,11 +37,13 @@ Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
 
 ## Umsetzung
 
-Detaillierte Beschreibung der umgesetzten Webseite.
+Insgesamt haben wir unsere Webseite so wie wir uns das vorgestellt haben gestalltet. Wir haben auch die Themen und Inhalte die uns angesprochen haben gut eingebracht. Im Ganzen konnten wir unsere Vorstellungen, teilweise mit hilfe des Internets, gut umsetzen und sogar übertreffen. Wie wir die einzelnen Abschnitte umgesetzt haben, siehst du in den nächsten Abschnitten.
 
 ### Banner
 
 ![Bildtext](Banner.png)
+
+Das Banner haben wir wie folgt umgesetzt. Wir haben die Menuleiste auf einen schwarzen Hintergrund gelegt und die hässlichen Unterstriche entfernt. Unter die Menuleiste wurde ein Bild als unterstützung gesetzt. Wenn man über den verschiedenen Menus (z.B "Geschichte") hovert, wird dieses Menu rot. Rot, deshalb weil es die Farbe des schweizer Handballs ist. Mit einem Klick kann man dann auf die ausgewälte Seite kommen.
 
 ### Hauptseite
 
@@ -53,6 +55,8 @@ Detaillierte Beschreibung der umgesetzten Webseite.
 
 ![Bildtext](SchweizTabelle.png)
 
+Diese Seite haben wir sehr ähnlich zu der Skizze aufgebaut. Der Haubtteil ist eine ausgearbeitete Tabelle der neusten Saison, welche die Teams mit ihren Logos und den Topscorern zeigt. Dazu hat es auf dieser Seite ein wenig Text und ein zenriertes Bild der Nationalmanschaft. Das schwerste an der Umsetzung war die vielen Bilder einzufügen, da wir dabei ein wenig Probleme hatten. Zudem war es zuerst schwierig die Tabelle mittig zu platzieren.
+
 ### Unterseite 2(*"Geschichte"*)
 
 ![Bildtext](Geschichte.png)
@@ -61,7 +65,7 @@ Detaillierte Beschreibung der umgesetzten Webseite.
 
 ![Bildtext](Footer.png)
 
-usw...0
+Beim Footer haben wir beim schreiben neue Ideen bekommen. Deswegen steht nicht nur das Impressum, als Tabelle mittig im Footer, sondern links und rechts jeweils in gleichem Abstand angepasst das Logo des Schweizer Handballverbandes IHF. Zudem sind die beiden Autoren der Webseite verlinkt und die Farbe wurde angepasst.
 
 ## Zusammenfassung
 
