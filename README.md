@@ -55,7 +55,7 @@ Detaillierte Beschreibung der umgesetzten Webseite.
 
 ### Unterseite 2(*"Geschichte"*)
 
-Screenshot mit Beschreibung.
+![Bildtext](Geschichte.png)
 
 ### Footer
 
