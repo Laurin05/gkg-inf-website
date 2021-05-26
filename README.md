@@ -39,17 +39,21 @@ Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
 
 Detaillierte Beschreibung der umgesetzten Webseite.
 
+### Banner
+
 ### Hauptseite
 
 Screenshot mit Beschreibung.
 
 ### Unterseite 1(*"Schweizer Handball"*)
 
-Screenshot mit Beschreibung.
+
 
 ### Unterseite 2(*"Geschichte"*)
 
 Screenshot mit Beschreibung.
+
+### Footer
 
 usw...0
 
