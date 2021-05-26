@@ -41,19 +41,25 @@ Detaillierte Beschreibung der umgesetzten Webseite.
 
 ### Banner
 
+![Bildtext](Banner.png)
+
 ### Hauptseite
 
-Screenshot mit Beschreibung.
+![Bildtext](Home.png)
 
 ### Unterseite 1(*"Schweizer Handball"*)
 
+![Bildtext](SchweizerHb.png)
 
+![Bildtext](SchweizTabelle.png)
 
 ### Unterseite 2(*"Geschichte"*)
 
 Screenshot mit Beschreibung.
 
 ### Footer
+
+![Bildtext](Footer.png)
 
 usw...0
 
