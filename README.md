@@ -39,7 +39,7 @@ Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
 
 Insgesamt haben wir unsere Webseite so wie wir uns das vorgestellt haben gestalltet. Wir haben auch die Themen und Inhalte die uns angesprochen haben gut eingebracht. Im Ganzen konnten wir unsere Vorstellungen, teilweise mit hilfe des Internets, gut umsetzen und sogar übertreffen. Wie wir die einzelnen Abschnitte umgesetzt haben, siehst du in den nächsten Abschnitten.
 
-### Banner
+### Header
 
 ![Bildtext](Banner.png)
 
@@ -48,6 +48,7 @@ Das Banner haben wir wie folgt umgesetzt. Wir haben die Menuleiste auf einen sch
 ### Hauptseite
 
 ![Bildtext](Home.png)
+
 Diese Seite haben wir ein bisschen anders aufgebaut als auf der Skizze, da die 2. UNterseite sonst gleich ausgesehen hätte. ALso haben wir die Seite bisschen anders Aufgebaut. Wir haben wie in der Skizze erwähnt eine Einführung und die Spielfläche und die Regeln beschrieben. Geändert im vergleich zur Skizze haben wir die Position des Bildes, welches sich jetzt zwischen und nicht mehr neben dem Text befindet und wir haben noch einen Absatz mit der beischreibung der Autoren der Internetseite gemacht.
 Es war schwierig dem Bild ein Bildbeschreibung zu geben, sodass diese direkt unter dem Bild ist.
 
@@ -62,6 +63,7 @@ Diese Seite haben wir sehr ähnlich zu der Skizze aufgebaut. Der Haubtteil ist e
 ### Unterseite 2(*"Geschichte"*)
 
 ![Bildtext](Geschichte.png)
+
 Bie Unterseite Geschichte ist sehr ähnlich aufgebaut wie auf unserer Skizze. WIr haben wie in der Skizze zwei Text Abschnitte und beim unteren Textabschnitt ist rechts neben den Text ein Bild. Zusätzlich , was nicht in der Skizze dargestellt ist haben wir noch zwischen dem ersten und zweiten Textabschnitt ein zentriertes Bild auf die Siete getan. Es war schwierig das Bild neben den Text zu bekommen. Wir hatten mehrmals Probleme, wie z.b das das Bild bis übers Footer dargestellt wird. Dies konnten wir aber beheben. Das oberere Bild haben wir auch mit einer Bildunterschrift gekennzeichnet.
 
 ### Footer
