@@ -48,6 +48,8 @@ Das Banner haben wir wie folgt umgesetzt. Wir haben die Menuleiste auf einen sch
 ### Hauptseite
 
 ![Bildtext](Home.png)
+Diese Seite haben wir ein bisschen anders aufgebaut als auf der Skizze, da die 2. UNterseite sonst gleich ausgesehen hätte. ALso haben wir die Seite bisschen anders Aufgebaut. Wir haben wie in der Skizze erwähnt eine Einführung und die Spielfläche und die Regeln beschrieben. Geändert im vergleich zur Skizze haben wir die Position des Bildes, welches sich jetzt zwischen und nicht mehr neben dem Text befindet und wir haben noch einen Absatz mit der beischreibung der Autoren der Internetseite gemacht.
+Es war schwierig dem Bild ein Bildbeschreibung zu geben, sodass diese direkt unter dem Bild ist.
 
 ### Unterseite 1(*"Schweizer Handball"*)
 
