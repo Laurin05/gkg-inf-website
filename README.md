@@ -62,6 +62,7 @@ Diese Seite haben wir sehr ähnlich zu der Skizze aufgebaut. Der Haubtteil ist e
 ### Unterseite 2(*"Geschichte"*)
 
 ![Bildtext](Geschichte.png)
+Bie Unterseite Geschichte ist sehr ähnlich aufgebaut wie auf unserer Skizze. WIr haben wie in der Skizze zwei Text Abschnitte und beim unteren Textabschnitt ist rechts neben den Text ein Bild. Zusätzlich , was nicht in der Skizze dargestellt ist haben wir noch zwischen dem ersten und zweiten Textabschnitt ein zentriertes Bild auf die Siete getan. Es war schwierig das Bild neben den Text zu bekommen. Wir hatten mehrmals Probleme, wie z.b das das Bild bis übers Footer dargestellt wird. Dies konnten wir aber beheben. Das oberere Bild haben wir auch mit einer Bildunterschrift gekennzeichnet.
 
 ### Footer
 
