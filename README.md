@@ -74,6 +74,7 @@ Beim Footer haben wir beim schreiben neue Ideen bekommen. Deswegen steht nicht n
 
 ## Zusammenfassung
 
+Wir konnten uns sehr genau an den Zeitplan halten. Bis am 17.05.21 konnten wir wie geplannt von allen Seiten und Unterseiten die Texte schreiben und das html dazu schreiben. Dies hat sehr gut funktioniert und wir hatten fast keine Probleme.
 Zusammenfassung mit Vergleich zwischen Planung und Umsetzung. Was hat geklappt und was nicht? Konnte der Zeitplan eingehalten werden? Konnten die Skizzen umgesetzt werden?
 
 ---
