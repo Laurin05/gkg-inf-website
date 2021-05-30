@@ -77,9 +77,6 @@ Beim Footer haben wir beim schreiben neue Ideen bekommen. Deswegen steht nicht n
 
 Wir konnten uns sehr genau an den Zeitplan halten. Bis am **17.05.21** konnten wir wie geplannt von allen Seiten und Unterseiten die Texte schreiben und das **html** dazu schreiben. Dies hat sehr gut funktioniert und wir hatten fast keine Probleme. Bis am **24.05.21** haben wir wie im Zeitplan angegeben, jeweils die **Css** codes zu den Unterseiten un dem **footer** und dem **banner** geschrieben. Dabei hatten wir manchmal bisschen schwierigkeiten z.B denn Text deben das Bild zu bekommen, ohne dass das Bild über das footer geht, und konnten diese dann auch lösen. Bei der Unterseite eins und zwei konnten wir uns sehr genau an die **Skizzen** halten und bei der ersten Unterseite auch die zentrierte Tabelle mit den aktuellen Ergebnissen einfügen und bei der zweiten Unterseite den Text neben das Bild schreiben. Einzig kam bei beiden Unterseiten noch ein zentriertes Bild dazu. Bei der Startseite haben wir die Struktur der Seite bisschen angepasst, da sie sonst sehtr ähnlich wie die zweite Unterseite ausgesehen hätte. Nun hatte die Startseite keinen Text neben dem Bild mehr sonder Text über und unter dem Bild. Bei manchen Bildern haben wir nich zusätzlich eine kurze **Bildbeschreibung** geschrieben, welche direkt unter dem Bild zusehen ist. Wir mussten noch vereinzelt korrekturen Vornehmen da etwas mal nicht gepasst oder Funktioniert hat. Nun als letztes mussten wir noch wie geplant unsere Dokumetation des **README** ergänzen und vervollständigen. Die wollten wir bis am 30.5.21 tun, was uns gut gelang. Wir konnten alles gut beschreiben, die Screenshots einfügen und die Zusammenfassung schreiben.
 
-
-Zusammenfassung mit Vergleich zwischen Planung und Umsetzung. Was hat geklappt und was nicht? Konnte der Zeitplan eingehalten werden? Konnten die Skizzen umgesetzt werden?
-
 ---
 
 Tipps zum README-Markdown:
