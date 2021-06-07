@@ -10,19 +10,19 @@ Auf allen Seiten gibt es einen Header mit einem gleichbleibenden Banner und eine
 
 Auf der Haubtseite gehen wir genauer auf **die Grundsätze des Sports** ein. Wir erklären dabei die wichtigsten Regeln, die grössen des Spielfeldes und zum Beispiel des Tores. 
 
-![Bildtext](Allgemeines.jpg)
+![Bildtext](Allgemeines.JPG)
 
 ### Unterseite 1 (*"Schweizer Handball"*)
 
 Auf dieser Seite beleuchten wir den Schweizer Handabll genauer. Wir zeigen die momentane **Tabelle der obersten Schweizer Liga**, mit deren Logos, Namen, Punkte, Rang in dieser Saison und dem Topscorer des Teams. Auch sagen wir welches die Weltelite und wo der Schweizer Handball dabei steht.
 
-![Bildtext](Schweizer_Handball.jpg)
+![Bildtext](Schweizer_Handball.JPG)
 
 ### Unterseite 2 (*"Geschichte"*)
 
 Auf der 2. Unterseite kommt eine **kurze Zusammenfassung der Geschichte** des Sports. Wir sagen auch wie sich der Sport verändert hat und zeigen auch ein paar Vergleiche von früher und heute.
 
-![Bildtext](Geschichte.jpg)
+![Bildtext](Geschichte.JPG)
 
 ## Zeitplan
 
@@ -42,34 +42,34 @@ Insgesamt haben wir unsere Webseite so wie wir uns das vorgestellt haben gestall
 
 ### Header
 
-![Bildtext](Banner.png)
+![Bildtext](Banner.PNG)
 
 Das Banner haben wir wie folgt umgesetzt. Wir haben die Menuleiste auf einen schwarzen Hintergrund gelegt und die hässlichen Unterstriche entfernt. Unter die Menuleiste wurde ein Bild als unterstützung gesetzt. Wenn man über den verschiedenen Menus (z.B "Geschichte") hovert, wird dieses Menu rot. Rot, deshalb weil es die Farbe des schweizer Handballs ist. Mit einem Klick kann man dann auf die ausgewälte Seite kommen.
 
 ### Hauptseite
 
-![Bildtext](Home.png)
+![Bildtext](Home.PNG)
 
 Diese Seite haben wir ein bisschen anders aufgebaut als auf der Skizze, da die 2. UNterseite sonst gleich ausgesehen hätte. ALso haben wir die Seite bisschen anders Aufgebaut. Wir haben wie in der Skizze erwähnt eine Einführung und die Spielfläche und die Regeln beschrieben. Geändert im vergleich zur Skizze haben wir die Position des Bildes, welches sich jetzt zwischen und nicht mehr neben dem Text befindet und wir haben noch einen Absatz mit der beischreibung der Autoren der Internetseite gemacht.
 Es war schwierig dem Bild ein Bildbeschreibung zu geben, sodass diese direkt unter dem Bild ist.
 
 ### Unterseite 1(*"Schweizer Handball"*)
 
-![Bildtext](SchweizerHb.png)
+![Bildtext](SchweizerHb.PNG)
 
-![Bildtext](SchweizTabelle.png)
+![Bildtext](SchweizTabelle.PNG)
 
 Diese Seite haben wir sehr ähnlich zu der Skizze aufgebaut. Der Haubtteil ist eine ausgearbeitete Tabelle der neusten Saison, welche die Teams mit ihren Logos und den Topscorern zeigt. Dazu hat es auf dieser Seite ein wenig Text und ein zenriertes Bild der Nationalmanschaft. Das schwerste an der Umsetzung war die vielen Bilder einzufügen, da wir dabei ein wenig Probleme hatten. Zudem war es zuerst schwierig die Tabelle mittig zu platzieren.
 
 ### Unterseite 2(*"Geschichte"*)
 
-![Bildtext](Geschichte.png)
+![Bildtext](Geschichte.PNG)
 
 Bie Unterseite Geschichte ist sehr ähnlich aufgebaut wie auf unserer Skizze. WIr haben wie in der Skizze zwei Text Abschnitte und beim unteren Textabschnitt ist rechts neben den Text ein Bild. Zusätzlich , was nicht in der Skizze dargestellt ist haben wir noch zwischen dem ersten und zweiten Textabschnitt ein zentriertes Bild auf die Siete getan. Es war schwierig das Bild neben den Text zu bekommen. Wir hatten mehrmals Probleme, wie z.b das das Bild bis übers Footer dargestellt wird. Dies konnten wir aber beheben. Das oberere Bild haben wir auch mit einer Bildunterschrift gekennzeichnet.
 
 ### Footer
 
-![Bildtext](Footer.png)
+![Bildtext](Footer.PNG)
 
 Beim Footer haben wir beim schreiben neue Ideen bekommen. Deswegen steht nicht nur das Impressum, als Tabelle mittig im Footer, sondern links und rechts jeweils in gleichem Abstand angepasst das Logo des Schweizer Handballverbandes IHF. Zudem sind die beiden Autoren der Webseite verlinkt und die Farbe wurde angepasst.
 
